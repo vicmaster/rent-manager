@@ -1,1 +1,6 @@
 #RENT MANAGER
+
+
+```
+ git clone
+```
